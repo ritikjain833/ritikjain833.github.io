@@ -9,11 +9,15 @@ I am first year postgraduate at [Indian Institute Of Delhi](https://home.iitd.ac
 
 
 -Bullet
--M.Tech (Cyber Security), IIT Delhi. [2021-23]
--B.Tech (Information Technology), SGSITS,Indore [2017-21]
+*M.Tech (Cyber Security), IIT Delhi. [2021-23] </br>
+*B.Tech (Information Technology), SGSITS,Indore [2017-21]
 
 
 [Link](url) and ![Image](src)
+
+
+###Projects
+-
 
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).

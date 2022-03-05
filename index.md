@@ -26,6 +26,7 @@ Leetcode [Profile Link.](https://leetcode.com/maverickgeek/)
 * [Public Key Infrastructure](https://github.com/ritikjain833/COL759_Cryptography_and_Computer_Security_IITDelhi/tree/main/assignments/assignments2)
 * [Subreddit Post Virality Prediction](https://github.com/ritikjain833/SubredditPostViralityPrediction)
 * Automated Analysis of Mobile Apps for Security Vulnerablities (Ongoing).
+* [Leetcode Daily Problems.](https://github.com/ritikjain833/Leetcode_Solved_Problems)
 
 ## Courses done at IIT Delhi.
 * COL702 Advanced Data Structures

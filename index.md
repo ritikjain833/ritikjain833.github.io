@@ -8,7 +8,6 @@ I am first year postgraduate at [Indian Institute Of Delhi](https://home.iitd.ac
 ### Education
 
 
--Bullet
 *M.Tech (Cyber Security), IIT Delhi. [2021-23] </br>
 *B.Tech (Information Technology), SGSITS,Indore [2017-21]
 

@@ -4,7 +4,10 @@
 <img src="https://user-images.githubusercontent.com/39840433/156882782-8a9acb18-d977-40ba-a7ec-559d6b5d4dac.jpg" width="400">
 
 ## M.Tech Student at IIT Delhi.
-I am first year postgraduate at [Indian Institute Of Delhi](https://home.iitd.ac.in/). My branch is [Cyber Security](https://csia.iitd.ac.in/).I have completed by my Bachelor of Technology in Information Technology from [SHRI G. S. INSTITUTE OF TECHNOLOGY & SCIENCE, INDORE](https://www.sgsits.ac.in/).During my bachelors, I prepared for the GATE CSE and secured AIR-418 in GATE 2021.I am currently working on a minor under [Prof. Vireshwar Kumar](https://www.cse.iitd.ac.in/~viresh/) that involves Automated Analysis of Mobile Apps for Security Vulnerabilities.
+I am first year postgraduate at [Indian Institute Of Delhi](https://home.iitd.ac.in/). </br>
+My branch is [Cyber Security](https://csia.iitd.ac.in/).</br>
+I have completed by my Bachelor of Technology in Information Technology from [SHRI G. S. INSTITUTE OF TECHNOLOGY & SCIENCE, INDORE](https://www.sgsits.ac.in/).During my bachelors, I prepared for the GATE CSE and secured AIR-418 in GATE 2021.
+</br>I am currently working on a minor under [Prof. Vireshwar Kumar](https://www.cse.iitd.ac.in/~viresh/) that involves Automated Analysis of Mobile Apps for Security Vulnerabilities.
 
 ### Education
 
@@ -17,8 +20,10 @@ I am first year postgraduate at [Indian Institute Of Delhi](https://home.iitd.ac
 ###
 
 ## Projects
+
 * [Public Key Infrastructure](https://github.com/ritikjain833/COL759_Cryptography_and_Computer_Security_IITDelhi/tree/main/assignments/assignments2)
 * [Subreddit Post Virality Prediction](https://github.com/ritikjain833/SubredditPostViralityPrediction)
+* Automated Analysis of Mobile Apps for Security Vulnerablities (Ongoing).
 
 ## Courses done at IIT Delhi.
 * COL702 Advanced Data Structures

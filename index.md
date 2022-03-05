@@ -4,17 +4,17 @@
 <img src="https://user-images.githubusercontent.com/39840433/156882782-8a9acb18-d977-40ba-a7ec-559d6b5d4dac.jpg" width="400">
 
 ## M.Tech Student at IIT Delhi.
-I am first year postgraduate at [Indian Institute Of Delhi](https://home.iitd.ac.in/). </br>
-My branch is [Cyber Security](https://csia.iitd.ac.in/).</br>
-I have completed by my Bachelor of Technology in Information Technology from [SHRI G. S. INSTITUTE OF TECHNOLOGY & SCIENCE, INDORE](https://www.sgsits.ac.in/).During my bachelors, I prepared for the GATE CSE and secured AIR-418 in GATE 2021.</br>
-I am currently working on a minor under [Prof. Vireshwar Kumar](https://www.cse.iitd.ac.in/~viresh/) that involves Automated Analysis of Mobile Apps for Security Vulnerabilities.</br>
-I love problem solving and solved over 400+ problems on leetcode. </br>
+I am first year postgraduate at [Indian Institute Of Delhi](https://home.iitd.ac.in/). <br/>
+My branch is [Cyber Security](https://csia.iitd.ac.in/).<br/>
+I have completed by my Bachelor of Technology in Information Technology from [SHRI G. S. INSTITUTE OF TECHNOLOGY & SCIENCE, INDORE](https://www.sgsits.ac.in/).During my bachelors, I prepared for the GATE CSE and secured AIR-418 in GATE 2021.<br/>
+I am currently working on a minor under [Prof. Vireshwar Kumar](https://www.cse.iitd.ac.in/~viresh/) that involves Automated Analysis of Mobile Apps for Security Vulnerabilities.<br/>
+I love problem solving and solved over 400+ problems on leetcode. <br/>
 Leetcode [Profile Link.](https://leetcode.com/maverickgeek/)
 
 ### Education
 
 
-* M.Tech (Cyber Security), IIT Delhi. [2021-23] </br>
+* M.Tech (Cyber Security), IIT Delhi. [2021-23] <br/>
 * B.Tech (Information Technology), SGSITS,Indore [2017-21]
 
 

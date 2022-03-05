@@ -3,7 +3,7 @@
 You can use the [editor on GitHub](https://github.com/ritikjain833/ritikjain833.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 ## M.Tech Student at IIT Delhi.
-I am first year postgraduate at [Indian Institute Of Delhi](https://home.iitd.ac.in/). My branch is [Cyber Security](https://csia.iitd.ac.in/).I have completed by my Bachelor of Technology in Information Technology from [SHRI G. S. INSTITUTE OF TECHNOLOGY & SCIENCE, INDORE](https://www.sgsits.ac.in/).During my bachelors, I prepared for the GATE CSE and secured AIR-418 in GATE 2021.I am currently working on a minor under [Prof. Vireshwar Kumar](https://www.cse.iitd.ac.in/~viresh/)
+I am first year postgraduate at [Indian Institute Of Delhi](https://home.iitd.ac.in/). My branch is [Cyber Security](https://csia.iitd.ac.in/).I have completed by my Bachelor of Technology in Information Technology from [SHRI G. S. INSTITUTE OF TECHNOLOGY & SCIENCE, INDORE](https://www.sgsits.ac.in/).During my bachelors, I prepared for the GATE CSE and secured AIR-418 in GATE 2021.I am currently working on a minor under [Prof. Vireshwar Kumar](https://www.cse.iitd.ac.in/~viresh/) that involves Automated Analysis of Mobile Apps for Security Vulnerabilities.
 
 ### Markdown
 

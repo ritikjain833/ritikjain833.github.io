@@ -12,7 +12,7 @@ I am first year postgraduate at [Indian Institute Of Delhi](https://home.iitd.ac
 * B.Tech (Information Technology), SGSITS,Indore [2017-21]
 
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](https://user-images.githubusercontent.com/39840433/156882782-8a9acb18-d977-40ba-a7ec-559d6b5d4dac.jpg)
 ###
 
 ## Projects

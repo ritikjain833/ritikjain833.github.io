@@ -5,19 +5,13 @@ You can use the [editor on GitHub](https://github.com/ritikjain833/ritikjain833.
 ## M.Tech Student at IIT Delhi.
 I am first year postgraduate at [Indian Institute Of Delhi](https://home.iitd.ac.in/). My branch is [Cyber Security](https://csia.iitd.ac.in/).I have completed by my Bachelor of Technology in Information Technology from [SHRI G. S. INSTITUTE OF TECHNOLOGY & SCIENCE, INDORE](https://www.sgsits.ac.in/).During my bachelors, I prepared for the GATE CSE and secured AIR-418 in GATE 2021.I am currently working on a minor under [Prof. Vireshwar Kumar](https://www.cse.iitd.ac.in/~viresh/) that involves Automated Analysis of Mobile Apps for Security Vulnerabilities.
 
-### Markdown
+### Education
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
+-M.Tech (Cyber Security), IIT Delhi. [2021-23]
+-B.Tech (Information Technology), SGSITS,Indore [2017-21]
 
 1. Numbered
 2. List

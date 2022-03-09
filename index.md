@@ -11,15 +11,12 @@ I am currently working on a minor project under [Prof. Vireshwar Kumar](https://
 I love problem solving and solved over 400+ problems on leetcode. <br/>
 Leetcode [Profile Link.](https://leetcode.com/maverickgeek/)
 
-### Education
+## Education
 
 
 * M.Tech (Cyber Security), IIT Delhi. [2021-23] <br/>
 * B.Tech (Information Technology), SGSITS,Indore [2017-21]
 
-
-
-###
 
 ## Projects
 

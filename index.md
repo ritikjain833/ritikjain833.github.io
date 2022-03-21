@@ -10,6 +10,7 @@ I have completed by my Bachelor of Technology in Information Technology from [SH
 I am currently working on a minor project under [Prof. Vireshwar Kumar](https://www.cse.iitd.ac.in/~viresh/) that involves Automated Analysis of Mobile Apps for Security Vulnerabilities.<br/>
 I love problem solving and solved over 450+ problems on leetcode. <br/>
 Leetcode [Profile Link.](https://leetcode.com/maverickgeek/)
+<a href="https://www.linkedin.com/in/ritik-jain-a9a603150/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="24px"/></a>
 
 ## Education
 
